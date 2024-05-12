@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning ...
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=kangho's%20github" />
+</div>
