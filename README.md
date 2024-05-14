@@ -30,7 +30,8 @@ Here are some ideas to get you started:
   <summary>
      1. 🎮 Opportunity Cost
   </summary>
-
+<br>
+  
 ![123](https://github.com/cho-stone/Portfolio/assets/74195857/3a341f65-e0ee-4d67-8bcc-0af6e2731944)
 >   
 > 기획 및 제작: 배광호, 조석진
@@ -52,12 +53,13 @@ https://github.com/kangho1117/Opportunity-Cost
   <summary>
 2. 📱 Betting Promise
   </summary>
+<br>
   
 ![1234](https://github.com/cho-stone/Portfolio/assets/74195857/def44c79-acb5-4c7c-9b24-a94960c12783)
 >
 > 기획 및 제작: 배광호, 조석진
 >
-> 장르: 엔터테인먼트, 위치추적, 약속
+> 장르: 엔터테인먼트, 베팅, 약속
 >
 > 제작기간: 2023.06.20 ~ 2024.03.27
 >
