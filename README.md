@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=kangho's%20Github" />
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangho1117)](https://solved.ac/wke1wke1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangho1117)](https://solved.ac/kangho1117)
 </div>
 
 ## 
@@ -66,7 +66,7 @@ https://github.com/kangho1117/Opportunity-Cost
 > 내용: 포인트를 베팅하고 친구와 약속(승부)를 겨루세요!
 ## 🛠 언어 및 도구
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">  <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black">
-* API : KakaoMap API, NaverMap API
+
 ## 🔗링크
 https://github.com/kangho1117/Betting-promise
 <br><br>
