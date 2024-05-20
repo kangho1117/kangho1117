@@ -79,7 +79,7 @@ https://github.com/kangho1117/Betting-promise
   </summary>
 <br>
 
-![준비 중]()
+![제작 중입니다]()
 >
 > 기획 및 제작: 배광호, 황윤준, 김윤지
 >
