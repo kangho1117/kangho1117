@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 🛠 언어 및 도구
 [TyranoBuilder Visual Novel Studio](https://tyranobuilder.com/)
-## 🔗링크
+## 🔗다운로드 링크
 https://github.com/kangho1117/Opportunity-Cost
 <br><br>
 </details>
