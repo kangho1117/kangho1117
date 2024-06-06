@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 ![001](https://github.com/cho-stone/Portfolio/assets/74195857/3a341f65-e0ee-4d67-8bcc-0af6e2731944)
 >   
-> 기획 및 제작: 배광호, 조석진
+> 기획 및 제작: PACO (배광호, 조석진)
 >   
 > 장르: 비주얼 노벨, 로맨스, 청춘
 >   
@@ -57,7 +57,7 @@ https://github.com/kangho1117/Opportunity-Cost
   
 ![002](https://github.com/cho-stone/Portfolio/assets/74195857/def44c79-acb5-4c7c-9b24-a94960c12783)
 >
-> 기획 및 제작: 배광호, 조석진
+> 기획 및 제작: PACO (배광호, 조석진)
 >
 > 장르: 엔터테인먼트, 베팅, 약속
 >
@@ -82,7 +82,7 @@ https://github.com/kangho1117/Betting-promise
 ![_RUezK2ASQW2qmr49wihpA](https://github.com/InhaCityFarmer/CityFarmer/assets/93529538/119cc0c0-63b3-4172-b897-5fad1f9813b0)
 
 >
-> 기획 및 제작: 배광호, 황윤준, 김윤지
+> 기획 및 제작: Inha City Farmer (배광호, 황윤준, 김윤지)
 >
 > 장르: 커뮤니티, 농장, 모니터링
 >
