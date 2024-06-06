@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 🛠 언어 및 도구
 [TyranoBuilder Visual Novel Studio](https://tyranobuilder.com/)
-## 🔗다운로드 링크
+## 🔗레포지토리 링크
 https://github.com/kangho1117/Opportunity-Cost
 <br><br>
 </details>
@@ -67,7 +67,7 @@ https://github.com/kangho1117/Opportunity-Cost
 ## 🛠 언어 및 도구
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">  <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black">
 
-## 🔗링크
+## 🔗레포지토리 링크
 https://github.com/kangho1117/Betting-promise
 <br><br>
 </details>
@@ -92,7 +92,7 @@ https://github.com/kangho1117/Betting-promise
 ## 🛠 언어 및 도구
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🔗링크
+## 🔗레포지토리 링크
 [https://github.com/kangho1117/CityFarmer](https://github.com/InhaCityFarmer/CityFarmer)
 <br><br>
 </details>
