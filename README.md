@@ -104,10 +104,9 @@ https://github.com/kangho1117/Betting-promise
   </summary>
 <br>
 
-![_RUezK2ASQW2qmr49wihpA](https://github.com/InhaCityFarmer/CityFarmer/assets/93529538/119cc0c0-63b3-4172-b897-5fad1f9813b0)
 
 >
-> 기획 및 제작: Inha 
+> 기획 및 제작: Inha Cumulonimbus Cloud
 >
 > 장르: AI, 웹크롤링
 >
