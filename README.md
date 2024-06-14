@@ -98,6 +98,8 @@ https://github.com/kangho1117/Betting-promise
 </details>
 
 
+<details>
+  <summary>
 3.  🤖 인하대 컴공과 성적표 분석 및 커리큘럼 생성 AI
   </summary>
 <br>
