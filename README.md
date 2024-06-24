@@ -79,7 +79,7 @@ https://github.com/kangho1117/Betting-promise
   </summary>
 <br>
 
-![_RUezK2ASQW2qmr49wihpA](https://github.com/InhaCityFarmer/CityFarmer/assets/93529538/119cc0c0-63b3-4172-b897-5fad1f9813b0)
+![시티파머 어드밴텍 판넬png](https://github.com/InhaCityFarmer/CityFarmer/assets/93529538/b914e58d-f711-4ab8-a46c-a66af5474ec2)
 
 >
 > 기획 및 제작: Inha City Farmer (배광호, 황윤준, 김윤지)
