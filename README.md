@@ -114,7 +114,7 @@ https://github.com/kangho1117/Betting-promise
 >
 > 내용: 인하대학교 컴퓨터공학과 학생의 성적표 PDF를 분석하여 해당 학생의 추천 커리큘럼을 작성해줍니다.
 ## 🛠 언어 및 도구
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## 🔗레포지토리 링크
 [https://github.com/Cumulonimbus-Cloud](https://github.com/Cumulonimbus-Cloud)
 <br><br>
