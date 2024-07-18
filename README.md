@@ -138,7 +138,7 @@ https://github.com/kangho1117/Betting-promise
 <br>
   
 ## 🔗레포지토리 링크
-[https://github.com/PACOSoftWare/Opportunity-Cost](https://github.com/kangho1117/codetree-TILs)
+https://github.com/kangho1117/codetree-TILs
 <br><br>
 </details>
 
@@ -149,7 +149,7 @@ https://github.com/kangho1117/Betting-promise
 <br>
   
 ## 🔗블로그 링크
-[[https://github.com/PACOSoftWare/Opportunity-Cost](https://github.com/kangho1117/codetree-TILs)](https://irecommendyou.tistory.com/)
+https://irecommendyou.tistory.com/
 <br><br>
 </details>
 
