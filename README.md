@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangho1117)](https://solved.ac/kangho1117)
-[![코드트리|실력진단-kangho1117](https://banner.codetree.ai/v1/banner/kangho1117)](https://www.codetree.ai/profiles/kangho1117)
 </div>
 
 
