@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I%E2%80%99m+currently+learning...!" alt="Typing SVG" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=kangho's%20Github" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=kwangho's%20Github" />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangho1117)](https://solved.ac/kangho1117)
