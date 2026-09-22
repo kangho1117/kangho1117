@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=kwangho's%20Github" />
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangho1117)](https://solved.ac/kangho1117)
-</div>
+
 
 
 
